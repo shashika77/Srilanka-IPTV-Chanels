@@ -1,1 +1,36 @@
-test
+<!DOCTYPE html>
+    <script>
+        // Define the custom headers you want to add
+        const customHeaders = {
+            'Origin': 'sportscdn.co.in', // Add the Origin header
+            'Referer': 'sportscdn.co.in', // Add the Referer header
+            // Add any other custom headers here
+        };
+
+        // URL of the M3U8 file
+        const m3u8FileUrl = 'https://sportscdn.co.in/gocast/sports.php?v=star1in';
+
+        // Function to fetch M3U8 content
+        async function fetchM3U8Content() {
+            try {
+                const response = await fetch(m3u8FileUrl, {
+                    headers: customHeaders,
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Request failed with status ${response.status}`);
+                }
+
+                const m3u8Content = await response.text();
+
+                // Log the M3U8 content to the console
+                console.log('M3U8 Content:', m3u8Content);
+            } catch (error) {
+                console.error('Failed to fetch M3U8 content:', error);
+            }
+        }
+
+        // Call the function to fetch M3U8 content
+        fetchM3U8Content();
+    </script>
+</html>
