@@ -89,5 +89,5 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Discovery_Channel_2009.svg" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/0/03/Discovery_Channel_2009.svg" group-title="Entertainment", Discovery HD
 https://raw.githubusercontent.com/shashika77/Srilanka-IPTV-Chanels/main/TV-FILES/Discovery-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="Entertainment", Discovery HD
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="Entertainment", Discovery Science
 https://raw.githubusercontent.com/shashika77/Srilanka-IPTV-Chanels/main/TV-FILES/Discovery-Science.m3u8
