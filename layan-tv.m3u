@@ -249,3 +249,8 @@ https://m3.ballnaja.com/live/assp3/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sport", Astro Supersport 4
 https://m3.ballnaja.com/live/assp4/chunks.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" tvg-logo-small="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="Sport", TNT Sport 4
+https://ht02.quest123.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=196034845689&id=7&pk=38022cbf30eeeabfd7ec6862d6c64c08484ee9613ed034e6f7418ab52fa47426
