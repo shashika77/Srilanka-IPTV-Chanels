@@ -220,7 +220,7 @@ https://boomtv.co.in/hbo/index.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_3/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20201217154549" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20201217154549" group-title="Sport", Astro Cricket HD
-https://m2.ballnaja.com:8443/ASTRO_CRICKET/index.m3u8
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Cricket-Plus-tr.gif/200px-Cricket-Plus-tr.gif" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Cricket-Plus-tr.gif/200px-Cricket-Plus-tr.gif" group-title="Sport", ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
