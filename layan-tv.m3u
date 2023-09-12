@@ -254,11 +254,14 @@ https://m3.ballnaja.com/live/assp4/chunks.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" tvg-logo-small="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="Sport", TNT Sport 4
-https://nes03.quest123.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=19d2e05f6971c5edf8cf555308c97e326912ef00f600d41e65d61952ed98e6dbaa3cc83afa921d153422dc3bd46b0172ebcf0d9a4059848fab5f2bda215613f0
+https://nes03.quest123.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=280f5cc279f8398644d30ab01a38530d671c0382a08866a96170accaa1ef8178056f3a4c1b2c1d9599d82d117f5a2c56eacfd71f9670529ae8ce30938806dc3c
 
 #EXTINF: -1 tvg-logo="https://gumlet.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2015%2F07%2F44872%2FTen-Sports-Network.jpg?auto=format%2Ccompress&w=640&dpr=1.0" tvg-logo-small="https://gumlet.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2015%2F07%2F44872%2FTen-Sports-Network.jpg?auto=format%2Ccompress&w=640&dpr=1.0" group-title="Sport", TEN Sport HD
 https://buc01.quest123.top:8088/live/pakcricf1/playlist.m3u8?vidictid=19610150843&id=114003&pk=19d2e05f6971c5edf8cf555308c97e326912ef00f600d41e65d61952ed98e6dbaa3cc83afa921d153422dc3bd46b0172ebcf0d9a4059848fab5f2bda215613f0
 
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w240-h480-rw" tvg-logo-small="https://play-lh.googleusercontent.com/u7UNH06SU4KsMM4ZGWr7wghkJYN75PNCEMxnIYULpA__VPg8zfEOYMIAhUaIdmZnqw=w240-h480-rw" group-title="Sport", SKY Sport HD
 https://buc02.quest123.top:8088/live/webcrice09/playlist.m3u8?id=116730&pk=e5976bf1685dea9772873b68d9ff5f7edfa9e3a557357eb38ba4c2357c4fb0e5c2ee5dce8ced4951d0f2f30a36b8e72267ad3264f54cc50e02ce62a60ad64a8a
+
+#EXTINF:-1,SPORTS: STAR SPORTS 1 HD ENGLISH
+http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/93724
 
