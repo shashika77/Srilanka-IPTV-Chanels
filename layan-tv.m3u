@@ -271,3 +271,18 @@ http://login.lionboxxtv.xyz:80/erol38/GLvrYbXhfc/13902
 http://login.lionboxxtv.xyz:80/erol38/GLvrYbXhfc/13903
 #EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 3 4K+" tvg-logo="" group-title="UK : Sport",|UK| BT Sport 3 4K+
 http://login.lionboxxtv.xyz:80/erol38/GLvrYbXhfc/13904
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|.NL.| HBO 1 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_307_C94_3_EB0000_0_0_0.png" group-title="NEDERLAND",|.NL.| HBO 1 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/110663.ts
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="|.NL.| HBO 2 HD " tvg-logo="http://one-iptv.com/imageslogo/HBO2.ro.png" group-title="NEDERLAND",|.NL.| HBO 2 HD 
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/110664.ts
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="|.NL.| FILM 1 ACTION HD" tvg-logo="http://one-iptv.com/imageslogo/Film1Action.nl.png" group-title="NEDERLAND",|.NL.| FILM 1 ACTION HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/62941.ts
+
+#EXTINF:-1 tvg-id="HBO.ca" tvg-name="|CA| HBO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/HBO_Canada_Logo_Black.png" group-title="CANADA EN",|CA| HBO 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/141189.ts
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="|CA| HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANADA EN",|CA| HBO 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/141190.ts
+#EXTINF:-1 tvg-id="" tvg-name="|CA| HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANADA EN",|CA| HBO Signature
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/141191.ts
